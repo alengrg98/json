@@ -1,0 +1,31 @@
+[{
+    "name":"alen",
+    "dob": "27/01/1998",
+    "college":"AJC",
+    "mobile":7558009797
+},
+{
+    "name":"abel",
+    "dob": "23/03/2000",
+    "college":"MCC",
+    "mobile":8281266392
+},
+{
+    "name":"arun",
+    "dob": "03/08/1989",
+    "college":"KUC",
+    "mobile":8606071776
+},
+{
+    "name":"varun",
+    "dob": "22/10/1996",
+    "college":"SJC",
+    "mobile":9559019796
+},
+{
+    "name":"karma",
+    "dob": "29/11/1988",
+    "college":"AISET",
+    "mobile":9841009273
+}
+]
